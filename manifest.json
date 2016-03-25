@@ -1,0 +1,12 @@
+{
+	"manifest_version": 2,
+	"name": "ln.is block",
+	"version": "1.0.0",
+	"description": "__MSG_manifest_description__",
+	"default_locale": "en",
+
+	"content_scripts": [ {
+		"js": [ "js/lib/jquery.js", "js/main.js" ],
+		"matches" : [ "*://twitter.com/*" ]
+	} ]
+}
