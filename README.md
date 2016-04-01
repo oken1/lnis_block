@@ -1,4 +1,4 @@
-KuroTwi
+ln.is block
 =============
 
 Eliminate ln.is from Twitter. It works on Google Chrome.
